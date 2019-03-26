@@ -1,0 +1,33 @@
+﻿  Project.cpp
+f:\program\vs_source\opengl\tophomework\project\project\prim.h(75): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+f:\program\vs_source\opengl\tophomework\project\project\project.cpp(115): warning C4305: “+=”: 从“double”到“GLfloat”截断
+f:\program\vs_source\opengl\tophomework\project\project\project.cpp(118): warning C4305: “-=”: 从“double”到“GLfloat”截断
+f:\program\vs_source\opengl\tophomework\project\project\project.cpp(139): warning C4305: “-=”: 从“double”到“GLfloat”截断
+f:\program\vs_source\opengl\tophomework\project\project\project.cpp(142): warning C4305: “+=”: 从“double”到“GLfloat”截断
+f:\program\vs_source\opengl\tophomework\project\project\project.cpp(153): warning C4244: “参数”: 从“int”转换到“GLfloat”，可能丢失数据
+f:\program\vs_source\opengl\tophomework\project\project\project.cpp(154): warning C4244: “参数”: 从“int”转换到“GLfloat”，可能丢失数据
+f:\program\vs_source\opengl\tophomework\project\project\project.cpp(155): warning C4244: “参数”: 从“int”转换到“GLfloat”，可能丢失数据
+f:\program\vs_source\opengl\tophomework\project\project\project.cpp(156): warning C4244: “参数”: 从“int”转换到“GLfloat”，可能丢失数据
+f:\program\vs_source\opengl\tophomework\project\project\project.cpp(176): warning C4244: “参数”: 从“int”转换到“GLfloat”，可能丢失数据
+f:\program\vs_source\opengl\tophomework\project\project\project.cpp(177): warning C4244: “参数”: 从“int”转换到“GLfloat”，可能丢失数据
+f:\program\vs_source\opengl\tophomework\project\project\project.cpp(178): warning C4244: “参数”: 从“int”转换到“GLfloat”，可能丢失数据
+f:\program\vs_source\opengl\tophomework\project\project\project.cpp(179): warning C4244: “参数”: 从“int”转换到“GLfloat”，可能丢失数据
+f:\program\vs_source\opengl\tophomework\project\project\project.cpp(193): warning C4244: “参数”: 从“int”转换到“GLfloat”，可能丢失数据
+f:\program\vs_source\opengl\tophomework\project\project\project.cpp(194): warning C4244: “参数”: 从“int”转换到“GLfloat”，可能丢失数据
+f:\program\vs_source\opengl\tophomework\project\project\project.cpp(195): warning C4244: “参数”: 从“int”转换到“GLfloat”，可能丢失数据
+f:\program\vs_source\opengl\tophomework\project\project\project.cpp(196): warning C4244: “参数”: 从“int”转换到“GLfloat”，可能丢失数据
+f:\program\vs_source\opengl\tophomework\project\project\project.cpp(239): warning C4305: “参数”: 从“double”到“GLfloat”截断
+f:\program\vs_source\opengl\tophomework\project\project\project.cpp(250): warning C4244: “参数”: 从“int”转换到“GLfloat”，可能丢失数据
+f:\program\vs_source\opengl\tophomework\project\project\project.cpp(251): warning C4244: “参数”: 从“int”转换到“GLfloat”，可能丢失数据
+f:\program\vs_source\opengl\tophomework\project\project\project.cpp(252): warning C4244: “参数”: 从“int”转换到“GLfloat”，可能丢失数据
+Project.obj : error LNK2019: 无法解析的外部符号 __imp_glutInitWindowSize，该符号在函数 main 中被引用
+Project.obj : error LNK2019: 无法解析的外部符号 __imp_glutInitDisplayMode，该符号在函数 main 中被引用
+Project.obj : error LNK2019: 无法解析的外部符号 __imp_glutMainLoop，该符号在函数 main 中被引用
+Project.obj : error LNK2019: 无法解析的外部符号 __imp_glutSwapBuffers，该符号在函数 "void __cdecl myDisplay(void)" (?myDisplay@@YAXXZ) 中被引用
+Project.obj : error LNK2019: 无法解析的外部符号 __imp_glutIdleFunc，该符号在函数 main 中被引用
+Project.obj : error LNK2019: 无法解析的外部符号 __imp_glutReshapeFunc，该符号在函数 main 中被引用
+Project.obj : error LNK2019: 无法解析的外部符号 __imp_glutDisplayFunc，该符号在函数 main 中被引用
+Project.obj : error LNK2019: 无法解析的外部符号 __imp___glutInitWithExit，该符号在函数 glutInit_ATEXIT_HACK 中被引用
+Project.obj : error LNK2019: 无法解析的外部符号 __imp___glutCreateWindowWithExit，该符号在函数 glutCreateWindow_ATEXIT_HACK 中被引用
+freeglut.lib : warning LNK4272: 库计算机类型“x86”与目标计算机类型“x64”冲突
+F:\Program\VS_source\opengl\Tophomework\Project\x64\Debug\Project.exe : fatal error LNK1120: 9 个无法解析的外部命令
