@@ -15,6 +15,7 @@
 代码入门时写的，代码结构有些糟糕
 
 一些截图
+
 ![](https://github.com/YonYuan/A-RPG-GameDemo-with-OpenGL/blob/master/screenshot/5.png)
 ![](https://github.com/YonYuan/A-RPG-GameDemo-with-OpenGL/blob/master/screenshot/6.png)
 ![](https://github.com/YonYuan/A-RPG-GameDemo-with-OpenGL/blob/master/screenshot/7.png)
